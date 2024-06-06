@@ -1,1 +1,1 @@
-# 🌐☁️💻AWS Certified Cloud Practitioner - My Study Notes 2024
+# 🌐☁️💻AWS Certified Cloud Practitioner-My Study Notes 2024
